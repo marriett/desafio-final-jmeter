@@ -1,0 +1,1 @@
+jmeter.bat -n -t "Test Plan - desafio JMETER.jmx" -l LogDesafioJMETER.jtl -e -o LogsDesafio
